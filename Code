@@ -33,7 +33,7 @@
   --guildchanneltransparency: 0;
   --chatinputtransparency: 0;
   --memberlisttransparency: 0.84;
-  --font: Whitney;
+  --font: Roboto;
   --textbrightest: 201,203,233;
   --textbrighter: 176,197,173;
   --textbright: 189,160,255;
